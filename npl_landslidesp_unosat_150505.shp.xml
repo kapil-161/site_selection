@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{DF5D159A-1956-4967-A03C-A99976970020}</MetaID><CreaDate>20150506</CreaDate><CreaTime>12131700</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddXY" Date="20150506" Time="121317">AddXY npl_landslidesp_unosat_150505 npl_landslidesp_unosat_150505</Process></lineage></DataProperties></Esri></metadata>
